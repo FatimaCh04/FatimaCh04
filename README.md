@@ -61,7 +61,7 @@ Healthcare platform for managing patients, doctors, appointments, and medical re
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FatimaCh04&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="[https://github-readme-stats.vercel.app/api?username=FatimaCh04&show_icons=true&theme=tokyonight](https://github.com/FatimaCh04)" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaCh04&layout=compact&theme=tokyonight" />
 </p>
 
