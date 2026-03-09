@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatima</h1>
-<h3 align="center">Computer Science Student | Web Developer | Python Learner</h3>
+<h3 align="center">Software Engineering Student | Web Developer | Python Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Python+Programmer;Learning+React+and+APIs;Always+Learning+New+Things&center=true&width=500&height=45">
