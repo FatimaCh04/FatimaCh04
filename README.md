@@ -1,56 +1,71 @@
-# Hi, I'm Fatima 👋
+<h1 align="center">Hi 👋, I'm Fatima</h1>
+<h3 align="center">Computer Science Student | Web Developer | Python Learner</h3>
 
-💻 Computer Science Student  
-🚀 Passionate about Web Development and Programming  
-🌱 Currently learning Python, React, and Web Technologies  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Python+Programmer;Learning+React+and+APIs;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
 
 ---
 
 ## 👩‍💻 About Me
+
 - 🎓 BS Computer Science Student  
-- 💡 Interested in Web Development and Software Engineering  
-- 🛠 I like building projects like Management Systems and Games  
-- 📚 Currently improving my coding and development skills  
+- 💻 Passionate about Web Development  
+- 🚀 Interested in building real-world software projects  
+- 📚 Currently learning **React, APIs, and Advanced Python**
 
 ---
 
 ## 🚀 Skills
 
+💻 Programming & Development
+
 - HTML  
 - CSS  
 - JavaScript  
 - Python  
+- React (Basic)
+
+🗄 Database
+
 - MySQL  
-- React (Basic)  
-- REST APIs  
-- Git & GitHub  
 
----
+🛠 Tools
 
-## 📂 My Projects
-
-🔹 Blockchain Voting System (Python)  
-🔹 University Management System  
-🔹 Car Racing Game (Python)  
-🔹 POS Mobile App  
-🔹 Library Management System  
-
----
-
-## 🛠 Tools I Use
-
-- VS Code  
 - Git  
 - GitHub  
-- Docker (Basic)  
+- VS Code  
+- Docker (Basic)
 
 ---
 
-## 📫 Connect With Me
+## 📂 Projects
 
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- Email: your@email.com  
+🔹 **Blockchain Voting System** (Python + Cryptography)  
+🔹 **University Management System**  
+🔹 **POS Mobile App**  
+🔹 **Car Racing Game in Python**  
+🔹 **Library Management System**
 
 ---
 
-⭐ If you like my projects, don't forget to star the repositories!
+## 📊 GitHub Stats
+
+![Fatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=FatimaCh04&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn:[ https://linkedin.com/in/YOURPROFILE](https://www.linkedin.com/in/fatima-choudhry-714423358/)
+- Email: fatimachoudhry94@email.com
+
+---
+
+⭐ **Thanks for visiting my profile!**
