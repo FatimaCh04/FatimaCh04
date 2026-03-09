@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Fatima 👋
 
-<!--
-**FatimaCh04/FatimaCh04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student  
+🚀 Passionate about Web Development and Programming  
+🌱 Currently learning Python, React, and Web Technologies  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- 🎓 BS Computer Science Student  
+- 💡 Interested in Web Development and Software Engineering  
+- 🛠 I like building projects like Management Systems and Games  
+- 📚 Currently improving my coding and development skills  
+
+---
+
+## 🚀 Skills
+
+- HTML  
+- CSS  
+- JavaScript  
+- Python  
+- MySQL  
+- React (Basic)  
+- REST APIs  
+- Git & GitHub  
+
+---
+
+## 📂 My Projects
+
+🔹 Blockchain Voting System (Python)  
+🔹 University Management System  
+🔹 Car Racing Game (Python)  
+🔹 POS Mobile App  
+🔹 Library Management System  
+
+---
+
+## 🛠 Tools I Use
+
+- VS Code  
+- Git  
+- GitHub  
+- Docker (Basic)  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/yourprofile  
+- Email: your@email.com  
+
+---
+
+⭐ If you like my projects, don't forget to star the repositories!
