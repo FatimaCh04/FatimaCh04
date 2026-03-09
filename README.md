@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Fatima</h1>
 <h3 align="center">Software Engineering Student | Web Developer | Python Learner</h3>
 
 <p align="center">
