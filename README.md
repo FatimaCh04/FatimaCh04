@@ -1,4 +1,4 @@
-<h1 align="center">Hi,I'm Fatima Choudhry</h1>
+<h1 align="center">Fatima Choudhry</h1>
 <h3 align="center">Software Engineering Student | Web Developer | Python Learner</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ## 👩‍💻 About Fatima Choudhry
 
-- 🎓 Software Engineering / Computer Science Student  
+- 🎓 Software Engineering  
 - 💻 Passionate about Web Development  
 - 🚀 Love building real-world software projects  
 - 📚 Currently learning **React, APIs, and Advanced Python**
